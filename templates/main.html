@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <title>Model X</title>
+        <link rel="shortcut icon" href="https://i.ibb.co/cNKFtdL/favicon.png" type="image/x-icon">
+        <script src="/package/dist/chart.js"></script>
+        <style>
+            #start {
+                margin-left: 43%; 
+                margin-top: 20%;
+                width: 300px; 
+                height: 100px;
+                border-radius: 50px;
+                background-color: #f7c551;
+                border-color: #f7c551;
+                color: #704601;
+                font-size: 1.6rem;
+            }
+            #save {
+                background-color: #f7c551;
+                border-color: #f7c551;
+                color: #704601;
+            }
+            #Logo {
+                position: absolute;
+                margin-top: 10%;
+                margin-left: 35%;
+            }
+            #WareHouse {
+                position: absolute;
+                width: 10%;
+                height: 20%;
+                margin-left: 45%;
+                margin-top: 30%;
+            }
+            #info {
+                position: absolute;
+                right: 10px;
+                top:0;
+                background-color: #f7c551;
+                border-color: #f7c551;
+                color: #704601;
+                border-radius: 100%;
+                font-size: 1.6rem;
+            }
+            #close_info{
+                background-color: #f7c551;
+                border-color: #f7c551;
+                color: #704601;
+            }
+            #next_day {
+              position: absolute;
+              top:0;
+              left:10px;
+              background-color: #f7c551;
+              border-color: #f7c551;
+              color: #704601;
+              border-radius: 50%;
+              width:50px;
+              height:50px;
+              font-size: 1.6rem;
+            }
+            #day_info{
+              text-transform: uppercase;
+              color: transparent;
+              position: absolute;
+              bottom: 0;
+              left: 20px;
+              font-size: 100px;
+              font-family: 'Trebuchet MS', cursive;
+              background-image: linear-gradient(to right, #f6e27a 45%, #f6f2c0 50%, #f6e27a 55%, #cb9b51 78%, #462523 100%);
+              -webkit-background-clip: text;
+            }
+        </style>
+    </head>
+
+
+    <button id="next_day" hidden="true" type="button" onclick="day_active();" class="btn btn-primary">
+    >
+    </button>
+
+    <button id="info" type="button" hidden="true" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#infoModal">
+        ? 
+    </button>
+    <div class="modal fade" id="infoModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header"> 
+              <h5 class="modal-title" id="infoModalLabel">Текущая информация</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              information... 
+            </div>
+            <div class="modal-footer">
+              <button id="close_info" type="button" data-bs-dismiss="modal" class="btn btn-primary" >Закрыть</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <span id="day_info" hidden="true">
+        Day 0
+      </span>
+
+    <button id="market_info" type="button" hidden="true" data-bs-toggle="modal" data-bs-target="#MarketInfoModal">
+    </button>
+    <div class="modal fade" id="MarketInfoModal" tabindex="-1" aria-labelledby="MarketInfoModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="MarketInfoModalLabel">Информация о заказчике</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div id="info_market" class="modal-body">
+              information... 
+            </div>
+            <div class="modal-footer">
+              <button id="close_info" type="button" data-bs-dismiss="modal" class="btn btn-primary" >Закрыть</button>
+            </div>
+          </div>
+        </div>
+    </div>
+
+
+    <div class="modal fade" id="WareHouseModal" tabindex="-1" aria-labelledby="WareHouseModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="WareHouseModalLabel">Информация о складе</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div id="info_warehouse" class="modal-body">
+            Good
+          </div>
+          <div id="modal-info" class="modal-footer">
+            Bad
+            <button id="close_info" type="button" data-bs-dismiss="modal" class="btn btn-primary" >Закрыть</button>
+          </div>
+        </div>
+      </div>
+  </div>
+    
+
+
+
+<body style="background-image: url('https://i.ibb.co/K6f2bM5/SSUCv3-H4s-IAAAAAAAACn-SSTW-b-MAy-G7w-P2-Hw-Kd-G1-Ry4nz02-Hv-RHXYLeq-Al2-Rai-SIE-ug1-B-3spy-XZUo-Lu.jpg');">
+   
+  <div class="modal fade" id="DayModal" tabindex="-1" aria-labelledby="DayModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="DayModalLabel">Информация за прошедшие дни</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div id="info_day" class="modal-body">
+          </div>
+          <div class="modal-footer">
+            <button id="close_info" type="button" data-bs-dismiss="modal" class="btn btn-primary" >Закрыть</button>
+          </div>
+        </div>
+      </div>
+  </div>
+
+  <div class="modal fade" id="End" tabindex="-1" aria-labelledby="EndModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="EndModalLabel">Моделирование закончено</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div id="End_day" class="modal-body">
+          <canvas id="myCanvas" width="480" height="320"></canvas>
+        </div>
+        <div class="modal-footer">
+          <button id="close_info" type="button" data-bs-dismiss="modal" class="btn btn-primary" >Закрыть</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+  <img id="Logo" src="https://i.ibb.co/9Yn9MYS/Ware-House4.png">
+    <!--<img id="WareHouse" src="https://i.ibb.co/XDvXwxH/warehouse-inc.png">-->
+        <!-- Button trigger modal -->
+    <button id="start" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+        Запустить
+    </button>
+  
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Укажите начальные параметры</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          
+          <div class="col-auto">
+            <label for="inputPassword6" class="col-form-label">Количество дней</label>
+          </div>
+          <div class="col-auto">
+            <input type="number" value="10" data-bind="value:replyNumber" id="value_days" class="form-control" aria-describedby="Количество дней">
+          </div>
+          
+          
+          <div class="col-auto">
+            <label for="inputPassword6" class="col-form-label">Количество заказчиков</label>
+          </div>
+          <div class="col-auto">
+            <input type="number" value="3" data-bind="value:replyNumber" id="value_market" class="form-control" aria-describedby="Количество заказчиков">
+          </div>
+
+                
+          <div class="col-auto">
+            <label for="inputPassword6" class="col-form-label">Количество видов продуктов</label>
+          </div>
+          <div class="col-auto">
+            <input type="number" value="5" data-bind="value:replyNumber" id="value_product" class="form-control" aria-describedby="Количество видов продуктов">
+          </div>
+
+
+          <div class="col-auto">
+            <label for="inputPassword6" class="col-form-label">Процент наценки</label>
+          </div>
+          <div class="col-auto">
+            <input type="number" value="5" data-bind="value:replyNumber" id="percent_up" class="form-control" aria-describedby="Процент наценки">
+          </div>
+
+          <div class="col-auto">
+            <label for="inputPassword6" class="col-form-label">Процент скидки</label>
+          </div>
+          <div class="col-auto">
+            <input type="number" data-bind="value:replyNumber" value="5" id="percent_down" class="form-control" aria-describedby="Процент скидки">
+          </div>
+
+
+        <div class="alert alert-danger" id="danger" hidden="true" role="alert">
+            
+        </div>
+
+        </div>
+        <div class="modal-footer">
+          <button id="save" type="button"  class="btn btn-primary" onclick="hide_begin();">Начать моделирование</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+        <!-- Latest compiled and minified CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <!-- jQuery library -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <!--Bootstrap JavaScript -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+        <script src="/js/logic.js" ></script>
+    </body>
+
+</html>

@@ -1,0 +1,2976 @@
+
+Day 0
+Income 0
+Lost 0
+
+Order 0
+Order 1
+
+Day 1
+Income 0
+Lost 0
+
+Order 0
+Order 1
+
+Day 2
+Income 0
+Lost 0
+
+Buy 1 3
+Buy 11 2
+Get 1 4
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Send 0 1 3
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 3
+Income 312
+Lost 311
+
+Order 0
+Order 1
+
+Day 4
+Income 312
+Lost 311
+
+Buy 1 3
+Get 11 25
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Get 1 64
+Good 1 0
+Good 11 25
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Send 0 1 2
+Good 1 56
+Good 11 25
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Send 1 11 2
+Good 1 56
+Good 11 20
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 5
+Income 530
+Lost 935
+
+ToBad 1 64
+Good 1 56
+Good 11 20
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+ToBad 11 25
+Good 1 0
+Good 11 20
+Bad 1 64
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Send 0 1 4
+Good 1 0
+Good 11 0
+Bad 1 56
+Bad 11 25
+Bad 17 0
+Bad 19 0
+Send 1 11 8
+Good 1 0
+Good 11 0
+Bad 1 56
+Bad 11 15
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 6
+Income 780
+Lost 935
+
+Trash 11 15
+Good 1 0
+Good 11 0
+Bad 1 56
+Bad 11 15
+Bad 17 0
+Bad 19 0
+Send 0 1 285
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 7
+Income 1760
+Lost 935
+
+Buy 1 229
+Buy 11 68
+Order 0
+Order 1
+
+Day 8
+Income 1760
+Lost 1870
+
+Order 0
+Order 1
+
+Day 9
+Income 1760
+Lost 1870
+
+Get 11 25
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Send 1 11 8
+Good 1 0
+Good 11 15
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 10
+Income 1884
+Lost 1870
+
+ToBad 11 25
+Good 1 0
+Good 11 15
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Get 1 100
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 25
+Bad 17 0
+Bad 19 0
+Send 0 1 3
+Good 1 90
+Good 11 0
+Bad 1 0
+Bad 11 25
+Bad 17 0
+Bad 19 0
+Send 1 11 6
+Good 1 90
+Good 11 0
+Bad 1 0
+Bad 11 15
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 11
+Income 2150
+Lost 1870
+
+ToBad 1 100
+Good 1 90
+Good 11 0
+Bad 1 0
+Bad 11 15
+Bad 17 0
+Bad 19 0
+Trash 11 15
+Good 1 0
+Good 11 0
+Bad 1 100
+Bad 11 15
+Bad 17 0
+Bad 19 0
+Send 0 1 3
+Good 1 0
+Good 11 0
+Bad 1 90
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 12
+Income 2290
+Lost 1870
+
+Buy 11 85
+Send 0 1 182
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 13
+Income 3550
+Lost 2056
+
+Buy 1 92
+Order 0
+Order 1
+
+Day 14
+Income 3550
+Lost 2836
+
+Get 11 36
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Get 1 100
+Good 1 0
+Good 11 36
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Send 0 1 3
+Good 1 90
+Good 11 36
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Send 1 11 4
+Good 1 90
+Good 11 30
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 15
+Income 3768
+Lost 2836
+
+ToBad 1 100
+Good 1 90
+Good 11 30
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+ToBad 11 36
+Good 1 0
+Good 11 30
+Bad 1 100
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Send 0 1 3
+Good 1 0
+Good 11 0
+Bad 1 90
+Bad 11 36
+Bad 17 0
+Bad 19 0
+Send 1 11 4
+Good 1 0
+Good 11 0
+Bad 1 90
+Bad 11 30
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 16
+Income 3963
+Lost 2836
+
+Trash 1 90
+Good 1 0
+Good 11 0
+Bad 1 90
+Bad 11 30
+Bad 17 0
+Bad 19 0
+Trash 11 30
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 30
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 17
+Income 3963
+Lost 2836
+
+Buy 1 91
+Buy 11 32
+Order 0
+Order 1
+
+Day 18
+Income 3963
+Lost 3444
+
+Buy 11 2
+Get 11 4
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Send 1 11 2
+Good 1 0
+Good 11 2
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 19
+Income 4025
+Lost 3506
+
+ToBad 11 4
+Good 1 0
+Good 11 2
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Get 11 4
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 4
+Bad 17 0
+Bad 19 0
+Send 1 11 6
+Good 1 0
+Good 11 2
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 20
+Income 4197
+Lost 3506
+
+ToBad 11 4
+Good 1 0
+Good 11 2
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Send 1 11 8
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 21
+Income 4307
+Lost 3506
+
+Buy 11 4
+Get 1 49
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Send 0 1 2
+Good 1 42
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 22
+Income 4463
+Lost 3692
+
+ToBad 1 49
+Good 1 42
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Send 0 1 4
+Good 1 0
+Good 11 0
+Bad 1 42
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 23
+Income 4603
+Lost 3692
+
+Send 0 1 215
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 24
+Income 5443
+Lost 3692
+
+Buy 1 173
+Get 11 36
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Send 1 11 2
+Good 1 0
+Good 11 30
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 25
+Income 5505
+Lost 3926
+
+ToBad 11 36
+Good 1 0
+Good 11 30
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Trash 11 36
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 36
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 26
+Income 5505
+Lost 3926
+
+Buy 11 6
+Order 0
+Order 1
+
+Day 27
+Income 5505
+Lost 4174
+
+Get 1 9
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Get 11 64
+Good 1 9
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Send 0 1 1
+Good 1 6
+Good 11 64
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Send 1 11 2
+Good 1 6
+Good 11 56
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 28
+Income 5723
+Lost 4174
+
+ToBad 1 9
+Good 1 6
+Good 11 56
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+ToBad 11 64
+Good 1 0
+Good 11 56
+Bad 1 9
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Send 0 1 2
+Good 1 0
+Good 11 0
+Bad 1 6
+Bad 11 64
+Bad 17 0
+Bad 19 0
+Send 1 11 8
+Good 1 0
+Good 11 0
+Bad 1 6
+Bad 11 56
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 29
+Income 5918
+Lost 4174
+
+Send 0 1 21
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 56
+Bad 17 0
+Bad 19 0
+Send 1 11 58
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 30
+Income 6583
+Lost 4174
+
+Buy 1 15
+Buy 11 2
+Get 11 4
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Send 1 11 10
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 31
+Income 6707
+Lost 4860
+
+Buy 11 6
+Get 1 64
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Send 0 1 5
+Good 1 56
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 32
+Income 6863
+Lost 5170
+
+ToBad 1 64
+Good 1 56
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Send 0 1 2
+Good 1 0
+Good 11 0
+Bad 1 56
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 33
+Income 7003
+Lost 5170
+
+Trash 1 56
+Good 1 0
+Good 11 0
+Bad 1 56
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 34
+Income 7003
+Lost 5170
+
+Buy 1 285
+Order 0
+Order 1
+
+Day 35
+Income 7003
+Lost 5638
+
+Get 11 100
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Get 1 36
+Good 1 0
+Good 11 100
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Send 0 1 4
+Good 1 30
+Good 11 100
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Send 1 11 4
+Good 1 30
+Good 11 90
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 36
+Income 7221
+Lost 5638
+
+ToBad 1 36
+Good 1 30
+Good 11 90
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+ToBad 11 100
+Good 1 0
+Good 11 90
+Bad 1 36
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Send 0 1 1
+Good 1 0
+Good 11 0
+Bad 1 30
+Bad 11 100
+Bad 17 0
+Bad 19 0
+Send 1 11 4
+Good 1 0
+Good 11 0
+Bad 1 30
+Bad 11 90
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 37
+Income 7416
+Lost 5638
+
+Trash 1 30
+Good 1 0
+Good 11 0
+Bad 1 30
+Bad 11 90
+Bad 17 0
+Bad 19 0
+Send 1 11 368
+Good 1 0
+Good 11 0
+Bad 1 0
+Bad 11 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 38
+Income 7911
+Lost 5638
+
+Buy 1 91
+Buy 11 278
+Order 0
+Order 1
+
+Day 39
+Income 7911
+Lost 6480
+
+Buy 13 2
+Order 0
+Order 1
+
+Day 40
+Income 7911
+Lost 6844
+
+Get 11 4
+Good 1 0
+Good 11 0
+Good 13 0
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 17 0
+Bad 19 0
+Send 1 11 8
+Good 1 0
+Good 11 0
+Good 13 0
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 41
+Income 8035
+Lost 6844
+
+Buy 11 4
+Get 1 100
+Good 1 0
+Good 11 0
+Good 13 0
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Get 13 49
+Good 1 100
+Good 11 0
+Good 13 0
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 42
+Income 8035
+Lost 6968
+
+ToBad 1 100
+Good 1 100
+Good 11 0
+Good 13 49
+Good 15 0
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+ToBad 13 49
+Good 1 0
+Good 11 0
+Good 13 49
+Good 15 0
+Bad 1 100
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Trash 13 49
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 100
+Bad 11 0
+Bad 13 49
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Buy 15 8
+Get 11 16
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 100
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 0 1 3
+Good 1 0
+Good 11 16
+Good 13 0
+Good 15 0
+Bad 1 90
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 1 11 4
+Good 1 0
+Good 11 12
+Good 13 0
+Good 15 0
+Bad 1 90
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 43
+Income 8237
+Lost 7283
+
+ToBad 11 16
+Good 1 0
+Good 11 12
+Good 13 0
+Good 15 0
+Bad 1 90
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 0 1 271
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 11 16
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 1 11 3
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 11 12
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 44
+Income 9552
+Lost 7283
+
+Buy 1 181
+Send 1 11 27
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 45
+Income 9717
+Lost 7361
+
+Buy 1 1
+Buy 11 15
+Get 15 81
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Get 1 1
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 81
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Get 1 25
+Good 1 1
+Good 11 0
+Good 13 0
+Good 15 81
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 0 1 2
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 81
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 46
+Income 9873
+Lost 8061
+
+ToBad 15 81
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 81
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Buy 1 1
+Get 11 100
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 15 81
+Bad 17 0
+Bad 19 0
+Send 1 11 5
+Good 1 0
+Good 11 90
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 15 81
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 47
+Income 9935
+Lost 8451
+
+ToBad 11 100
+Good 1 0
+Good 11 90
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 15 81
+Bad 17 0
+Bad 19 0
+Get 1 25
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 11 100
+Bad 13 0
+Bad 15 81
+Bad 17 0
+Bad 19 0
+Send 1 11 9
+Good 1 25
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 11 90
+Bad 13 0
+Bad 15 81
+Bad 17 0
+Bad 19 0
+Send 0 15 246
+Good 1 25
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 11 90
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 48
+Income 10557
+Lost 8451
+
+ToBad 1 25
+Good 1 25
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 11 90
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Buy 15 165
+Send 1 11 366
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 25
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 49
+Income 11052
+Lost 8661
+
+Trash 1 25
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 25
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Buy 11 276
+Order 0
+Order 1
+
+Day 50
+Income 11052
+Lost 8847
+
+Buy 1 49
+Order 0
+Order 1
+
+Day 51
+Income 11052
+Lost 9159
+
+Buy 13 1
+Get 15 36
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Get 11 36
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 36
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Get 1 16
+Good 1 0
+Good 11 36
+Good 13 0
+Good 15 36
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 1 11 4
+Good 1 16
+Good 11 30
+Good 13 0
+Good 15 36
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 0 15 7
+Good 1 16
+Good 11 30
+Good 13 0
+Good 15 24
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 52
+Income 11254
+Lost 9471
+
+ToBad 1 16
+Good 1 16
+Good 11 30
+Good 13 0
+Good 15 24
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+ToBad 11 36
+Good 1 0
+Good 11 30
+Good 13 0
+Good 15 24
+Bad 1 16
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+ToBad 15 36
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 24
+Bad 1 16
+Bad 11 36
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 1 11 6
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 16
+Bad 11 30
+Bad 13 0
+Bad 15 36
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 53
+Income 11309
+Lost 9471
+
+Trash 1 16
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 16
+Bad 11 30
+Bad 13 0
+Bad 15 36
+Bad 17 0
+Bad 19 0
+Trash 11 30
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 11 30
+Bad 13 0
+Bad 15 36
+Bad 17 0
+Bad 19 0
+Get 13 36
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 15 36
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 54
+Income 11309
+Lost 9471
+
+ToBad 13 36
+Good 1 0
+Good 11 0
+Good 13 36
+Good 15 0
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 15 36
+Bad 17 0
+Bad 19 0
+Trash 13 36
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 11 0
+Bad 13 36
+Bad 15 36
+Bad 17 0
+Bad 19 0
+Buy 1 31
+Buy 11 62
+Send 0 15 35
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 55
+Income 11687
+Lost 10499
+
+Order 0
+Order 1
+
+Day 56
+Income 11687
+Lost 10499
+
+Buy 13 1
+Get 13 9
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 57
+Income 11687
+Lost 10655
+
+ToBad 13 9
+Good 1 0
+Good 11 0
+Good 13 9
+Good 15 0
+Bad 1 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Get 11 64
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 11 0
+Bad 13 9
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 1 11 8
+Good 1 0
+Good 11 56
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 11 0
+Bad 13 9
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 0 13 1
+Good 1 0
+Good 11 56
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 11 0
+Bad 13 6
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 58
+Income 11842
+Lost 10655
+
+ToBad 11 64
+Good 1 0
+Good 11 56
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 0
+Bad 11 0
+Bad 13 6
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Trash 11 64
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 0
+Bad 11 64
+Bad 13 6
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Get 1 100
+Good 1 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 0
+Bad 11 0
+Bad 13 6
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 0 13 18
+Good 1 100
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 59
+Income 12028
+Lost 10655
+
+ToBad 1 100
+Good 1 100
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Buy 6 4
+Buy 13 12
+Send 0 1 1
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 90
+Bad 6 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 60
+Income 12168
+Lost 11669
+
+Buy 11 4
+Send 0 1 91
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 61
+Income 13428
+Lost 11731
+
+Buy 1 1
+Get 13 81
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 0 13 2
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 72
+Good 15 0
+Bad 1 0
+Bad 6 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 62
+Income 13532
+Lost 12121
+
+ToBad 13 81
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 72
+Good 15 0
+Bad 1 0
+Bad 6 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Trash 13 81
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 0
+Bad 11 0
+Bad 13 81
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Buy 11 2
+Order 0
+Order 1
+
+Day 63
+Income 13532
+Lost 12431
+
+Get 6 49
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Get 1 25
+Good 1 0
+Good 6 49
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 0 1 2
+Good 1 20
+Good 6 49
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 64
+Income 13688
+Lost 12431
+
+ToBad 1 25
+Good 1 20
+Good 6 49
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+ToBad 6 49
+Good 1 0
+Good 6 49
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 25
+Bad 6 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Trash 1 25
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 25
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Get 11 4
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Get 11 100
+Good 1 0
+Good 6 0
+Good 11 4
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 1 11 2
+Good 1 0
+Good 6 0
+Good 11 102
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 65
+Income 13750
+Lost 12431
+
+ToBad 11 4
+Good 1 0
+Good 6 0
+Good 11 102
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+ToBad 11 100
+Good 1 0
+Good 6 0
+Good 11 10
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 4
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Buy 1 3
+Send 1 6 151
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 0
+Bad 11 104
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 66
+Income 14730
+Lost 12821
+
+Trash 11 100
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 0
+Bad 11 104
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Buy 6 102
+Get 1 25
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 0
+Bad 11 4
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 0 1 4
+Good 1 20
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 0
+Bad 11 4
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 1 11 316
+Good 1 20
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 67
+Income 14996
+Lost 13367
+
+ToBad 1 25
+Good 1 20
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Buy 11 312
+Send 0 1 5
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 20
+Bad 6 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 68
+Income 15136
+Lost 13398
+
+Trash 1 20
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 20
+Bad 6 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 69
+Income 15136
+Lost 13398
+
+Buy 1 42
+Buy 11 7
+Order 0
+Order 1
+
+Day 70
+Income 15136
+Lost 14131
+
+Buy 11 2
+Get 6 49
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 71
+Income 15136
+Lost 14224
+
+ToBad 6 49
+Good 1 0
+Good 6 49
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 0
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Get 11 1
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 1 11 10
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 72
+Income 15198
+Lost 14224
+
+Get 11 9
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 1 11 2
+Good 1 0
+Good 6 0
+Good 11 6
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 73
+Income 15260
+Lost 14224
+
+ToBad 11 9
+Good 1 0
+Good 6 0
+Good 11 6
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Get 1 81
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 9
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Get 11 1
+Good 1 81
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 9
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 0 1 3
+Good 1 72
+Good 6 0
+Good 11 1
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 9
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 1 11 8
+Good 1 72
+Good 6 0
+Good 11 1
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 74
+Income 15581
+Lost 14224
+
+ToBad 1 81
+Good 1 72
+Good 6 0
+Good 11 1
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+ToBad 11 1
+Good 1 0
+Good 6 0
+Good 11 1
+Good 13 0
+Good 15 0
+Bad 1 81
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 0 1 2
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 72
+Bad 6 49
+Bad 11 1
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 1 11 4
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 72
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 75
+Income 15776
+Lost 14224
+
+Buy 11 3
+Get 11 49
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 72
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 0 1 218
+Good 1 0
+Good 6 0
+Good 11 49
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 1 11 10
+Good 1 0
+Good 6 0
+Good 11 35
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 76
+Income 17020
+Lost 14441
+
+Buy 1 146
+Send 1 11 7
+Good 1 0
+Good 6 0
+Good 11 28
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 77
+Income 17082
+Lost 14831
+
+ToBad 11 49
+Good 1 0
+Good 6 0
+Good 11 28
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 1 11 9
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 35
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 78
+Income 17192
+Lost 14831
+
+Send 1 11 184
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 79
+Income 17467
+Lost 14831
+
+Buy 11 149
+Order 0
+Order 1
+
+Day 80
+Income 17467
+Lost 14924
+
+Get 1 25
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 0 1 1
+Good 1 20
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 81
+Income 17623
+Lost 14924
+
+ToBad 1 25
+Good 1 20
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 0 1 1
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 20
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 82
+Income 17763
+Lost 14924
+
+Get 11 9
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 20
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 0 1 42
+Good 1 0
+Good 6 0
+Good 11 9
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 1 11 3
+Good 1 0
+Good 6 0
+Good 11 6
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 83
+Income 18385
+Lost 14924
+
+ToBad 11 9
+Good 1 0
+Good 6 0
+Good 11 6
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Trash 11 9
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 9
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Buy 1 22
+Order 0
+Order 1
+
+Day 84
+Income 18385
+Lost 15392
+
+Buy 11 3
+Order 0
+Order 1
+
+Day 85
+Income 18385
+Lost 15702
+
+Order 0
+Order 1
+
+Day 86
+Income 18385
+Lost 15702
+
+Order 0
+Order 1
+
+Day 87
+Income 18385
+Lost 15702
+
+Get 1 36
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Get 11 100
+Good 1 36
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 0 1 4
+Good 1 30
+Good 6 0
+Good 11 100
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 1 11 1
+Good 1 30
+Good 6 0
+Good 11 90
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 88
+Income 18603
+Lost 15702
+
+ToBad 1 36
+Good 1 30
+Good 6 0
+Good 11 90
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+ToBad 11 100
+Good 1 0
+Good 6 0
+Good 11 90
+Good 13 0
+Good 15 0
+Bad 1 36
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Trash 11 100
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 36
+Bad 6 49
+Bad 11 100
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 0 1 1
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 30
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 89
+Income 18743
+Lost 15702
+
+Buy 11 4
+Send 0 1 62
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 90
+Income 19443
+Lost 15981
+
+Buy 1 32
+Order 0
+Order 1
+
+Day 91
+Income 19443
+Lost 16293
+
+Order 0
+Order 1
+
+Day 92
+Income 19443
+Lost 16293
+
+Order 0
+Order 1
+
+Day 93
+Income 19443
+Lost 16293
+
+Get 11 81
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Get 1 16
+Good 1 0
+Good 6 0
+Good 11 81
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 0 1 3
+Good 1 12
+Good 6 0
+Good 11 81
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 1 11 2
+Good 1 12
+Good 6 0
+Good 11 72
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 94
+Income 19661
+Lost 16293
+
+ToBad 1 16
+Good 1 12
+Good 6 0
+Good 11 72
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+ToBad 11 81
+Good 1 0
+Good 6 0
+Good 11 72
+Good 13 0
+Good 15 0
+Bad 1 16
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 0 1 5
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 8
+Bad 6 49
+Bad 11 81
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 1 11 2
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 8
+Bad 6 49
+Bad 11 72
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 95
+Income 19996
+Lost 16293
+
+Send 0 1 18
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 72
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 1 11 222
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 96
+Income 20716
+Lost 16293
+
+Buy 1 10
+Buy 11 150
+Get 1 100
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 0 1 1
+Good 1 90
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 97
+Income 20872
+Lost 17352
+
+ToBad 1 100
+Good 1 90
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Get 11 81
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 100
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 0 1 2
+Good 1 0
+Good 6 0
+Good 11 81
+Good 13 0
+Good 15 0
+Bad 1 90
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 1 11 2
+Good 1 0
+Good 6 0
+Good 11 72
+Good 13 0
+Good 15 0
+Bad 1 90
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 98
+Income 21074
+Lost 17352
+
+ToBad 11 81
+Good 1 0
+Good 6 0
+Good 11 72
+Good 13 0
+Good 15 0
+Bad 1 90
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 0 1 181
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 81
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Send 1 11 2
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 72
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 99
+Income 22389
+Lost 17352
+
+Buy 1 91
+Send 1 11 295
+Good 1 0
+Good 6 0
+Good 11 0
+Good 13 0
+Good 15 0
+Bad 1 0
+Bad 6 49
+Bad 11 0
+Bad 13 0
+Bad 15 0
+Bad 17 0
+Bad 19 0
+Order 0
+Order 1
+
+Day 100
+Income 22829
+Lost 17664
+
+Buy 11 223
+Order 0
+Order 1
